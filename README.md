@@ -1,2 +1,9 @@
 # use-selector-interest
-use-selectorって関心のある値だけをみてくれるんだっけ？
+
+use-selector は再レンダリングの関心を絞れるのか
+
+```
+npm i
+
+npm run dev
+```
